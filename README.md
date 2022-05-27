@@ -6,4 +6,4 @@ In this *portfolio* I will save every code I write, to have something to show to
 
 ==How to contact me?==
 - email: conley.harold@gmail.com
-- Linkedin: [title](https://www.linkedin.com/in/haroldconley/)
+- Linkedin: [Linkedin](https://www.linkedin.com/in/haroldconley/)
